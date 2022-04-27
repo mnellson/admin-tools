@@ -1,5 +1,15 @@
 
 {
-  "name": "Vito_Capone",
-  "name2": "Alvaro_Carmone"
+  "founder1": "Vito_Capone",
+  "founder2": "Staford_Diablo",
+  "deputy_founder1": "Lancia_Weryn",
+  "deputy_founder2": "Donny_Hous",
+  "chief_admin1": "Aleksandr_Olinik",
+  "cheif_admin2": "Matthew_Nellson",
+  "vk_founder1": "https://vk.com/vadya.volgin",
+  "vk_founder2": "https://vk.com/staff.diablo",
+  "vk_deputy_founder1": "https://vk.com/renevall",
+  "vk_deputy_founder2": "https://vk.com/wizardback",
+  "vk_chief_admin1": "https://vk.com/kingmeg",
+  "vk_cheif_admin2": "https://vk.com/dimanded"
 }
