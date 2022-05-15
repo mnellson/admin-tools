@@ -16,8 +16,8 @@
   "chief_admin1": "Technique_Kuntenirs",
   "chief_admin2": "Ozzy_Novikov",
   "chief_admin3": "NONE",
-  "pom_creator3_enb": "0",
-  "founder3_enb": "0",
-  "deputy_founder3_enb": "1",
-  "chief_admin3_enb": "0"
+  "pom_creator3_enb": "false",
+  "founder3_enb": "false",
+  "deputy_founder3_enb": "true",
+  "chief_admin3_enb": "false"
 }
